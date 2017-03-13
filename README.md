@@ -1,2 +1,2 @@
 # portfolio
-Website about my and my experience
+Website about me and my experience
